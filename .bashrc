@@ -84,6 +84,12 @@ alias cmin='composer install'
 alias cmrq='composer require'
 alias cmr=m'composer remove'
 
+
+#----------------------------
+# The 'laravel' family
+#----------------------------
+alias laravel='composer create laravel/laravel'
+
 #----------------------------
 # The 'vim' family 
 #----------------------------
