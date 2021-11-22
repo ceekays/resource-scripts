@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Adapted from https://stackoverflow.com/a/52543399/6029703
+# Credits:
+# Adapted from https://gist.github.com/ximeg/9d1a2d543c8959725b1c9bace196efd5
 
 if [ "$#" -gt 2  -o  "$#" -lt 1 ]; then
     echo "********************************************************************"
